@@ -33,44 +33,31 @@ Table
 ![image](https://i.natgeofe.com/n/4cebbf38-5df4-4ed0-864a-4ebeb64d33a4/NationalGeographic_1468962_3x4.jpg)
 
 ![image](https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif)
-## Monday
-
----
-
-
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
-
-**This is the text area where you can enter your blog details for Monday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---
 
 
-## Tuesday
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-KKDyDy-a5ogR5GHx22V-_GYfSiV1RHDyNg&s)
+
+**Monday**.
+
+This was the first of the work experience. The first thing we did was a tour of the office, then we took a quick break and listened to a talk on teamwork and team dynamics.
+We had to do an excercise were we split into two groups and each group got a Mr Potato Head. My group's theme was superheroes so we made an iron man, a spiderman and a transformers potato head. 
+We had a bit of extra time at the end so I also made a disney themed one too, which wa probably my favourite. 
 
 
 ---
 
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2XOHuRidAitUaaEfkehZ7QN9xcub-4r0eg&s)
 
-**This is the text area where you can enter your blog details for Tuesday**.
+**Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Today we had a quick meeting in the morning called a stand up where we reported any concerns or issues from the previous day. After that we went onto bash and learned some things you could code. Then we went onto Github and learned how to edit our own blog pages like how to add text, images, bullet points and tables.
+After lunch we listened to a talk on college life and some courses you could do in college. I found this talk te most interesting thing today.
+After updating our blogs we went home.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---
